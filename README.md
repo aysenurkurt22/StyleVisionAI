@@ -2,8 +2,6 @@
 
 ---
 
-## Türkçe Açıklama
-
 **StyleVisionAI**, gardıroptaki kıyafet görsellerini otomatik olarak tanıyan ve sınıflandıran bir derin öğrenme modelidir.
 
 Modelin eğitimi için **Fashion Product Images (Small)** veri seti kullanılmıştır. Bu veri seti, e-ticaret alanında kullanılan yüksek çözünürlüklü kıyafet fotoğraflarından ve bu ürünlere ait etiketlerden oluşmaktadır. Görseller, `images/` klasöründe yer almakta ve ürün bilgileri `styles.csv` dosyasında tanımlanmaktadır.
@@ -27,8 +25,6 @@ Model bu filtrelenmiş sınıflar üzerinden eğitilmiş ve her görsel bu sın�
 - `stylevision_model_final224.h5`: Eğitilmiş modelin ağırlık dosyası  
 
 ---
-
-## English Description
 
 **StyleVisionAI** is a deep learning model that automatically recognizes and classifies clothing images from a personal wardrobe.
 
